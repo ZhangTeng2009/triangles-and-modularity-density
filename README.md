@@ -10,7 +10,7 @@ Files:
 2. motif_community_code_for_directed_network:  This file is used to detect the community structure of directed networks.
 
 The first file contains the following nine files:
-1) data: The data stores karate(Karate_club.csv), dolphin(dolphins[Edges].csv), scientist(sc.txt), LFR(network.dat) network information information;
+1) data: The data stores karate(Karate_club.csv), dolphin(dolphins[Edges].csv), scientist(sc.txt), LFR(network.dat) network information;
 
 2) main: The entrance of the program;
 
@@ -30,7 +30,7 @@ The first file contains the following nine files:
 
 The second file contains the following nine files:
 
-1) data: The data stores karate(Karate_club.csv), dolphin(dolphins[Edges].csv), scientist(sc.txt), LFR(network.dat) network information information;
+1) data: The data stores plotblogs(blog_edges.txt), cora(Cora.mat) network information;
 
 2) main: The entrance of the program;
 
@@ -38,7 +38,7 @@ The second file contains the following nine files:
 
 4) Algorithm1.m: The function detecting community based on spectral clustering;
 
-5) Algorithm2.m: The function detecting community based on NMF;）
+5) Algorithm2.m: The function detecting community based on NMF;
 
 6) DirectionalBreakup.m: The function returns the bidirectional, unidirectional, and undirected versions of the adjacency matrix A;
 
